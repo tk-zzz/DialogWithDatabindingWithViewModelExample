@@ -1,4 +1,4 @@
-package com.example.twowaydatabindingsample
+package com.example.dialogwithdatabindingwithviewmodelexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

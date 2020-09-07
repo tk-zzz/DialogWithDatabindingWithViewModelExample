@@ -1,4 +1,4 @@
-package com.example.twowaydatabindingsample
+package com.example.dialogwithdatabindingwithviewmodelexample
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.activityViewModels
-import com.example.twowaydatabindingsample.databinding.FragmentMainBinding
+import com.example.dialogwithdatabindingwithviewmodelexample.databinding.FragmentMainBinding
 
 
 class MainFragment : Fragment() {

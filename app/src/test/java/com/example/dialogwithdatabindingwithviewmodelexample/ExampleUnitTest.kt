@@ -1,4 +1,4 @@
-package com.example.twowaydatabindingsample
+package com.example.dialogwithdatabindingwithviewmodelexample
 
 import org.junit.Test
 
