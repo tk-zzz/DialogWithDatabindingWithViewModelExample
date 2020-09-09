@@ -1,4 +1,5 @@
-# TwoWayBindingExample
+# DialogWithDatabindingWithViewModelExample
 
-双方向データバインディングのサンプルです。
-自分なりに最小構成で作ってみました。
+DialogFragmentを利用してダイアログを表示します。
+databindingとViewModelを利用して、
+fragment上のEditTextに入力した文字列とDialog上で入力した文字列が随時反映されます。
